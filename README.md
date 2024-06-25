@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hello! I'm Luccas, but people usually call me Greff:wink:!
 
 <!--
 **luccasgreff/luccasgreff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
